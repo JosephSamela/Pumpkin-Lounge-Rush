@@ -16,9 +16,9 @@ int[] colors = { color(191,58,41), color(232,127,36), color(241,196,15), color(3
 void setup() {
     //size(displayWidth, displayHeight);
     //fullScreen();
-    //size(1280, 720)
+    size(1280, 720);
     //orientation(LANDSCAPE);
-    size(1920, 1080);
+    //size(1920, 1080);
     //size(384,192);
        
    
