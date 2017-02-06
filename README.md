@@ -21,7 +21,6 @@ https://play.google.com/store/apps/details?id=processing.PumpkinLoungeRush&hl=en
 ![youlose](screenshots/youlose.png?raw=true "youlose")
 
 ![gameplay](screenshots/gameplay.png?raw=true "gameplay")
-NOTE, while the design might make the game "feel" endless, it's not. It is completely beatable geting progressively more ~~difficult~~ psychedelic as levels progress. There is a reward at the end.
+NOTE, while the design might make the game "feel" endless, it's not. It is completely beatable getting progressively more ~~difficult~~ psychedelic as levels progress.
 
-### Author
 * **Joe Samela** - *Initial work* - [ForYourBrain.net](http://www.foryourbrain.net)
