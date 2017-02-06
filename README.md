@@ -1,5 +1,5 @@
 # Pumpkin-Lounge-Rush
-![Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gifv)
+![Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gif)
 
 You will laugh, cry and love. Join the world on this extraordinary one-of-a-kind adventure.
 
