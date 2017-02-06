@@ -1,7 +1,9 @@
 # Pumpkin-Lounge-Rush
-[Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gifv)
+![Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gifv)
 
-[Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gif)
+![Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gif)
+
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 You will laugh, cry and love. Join the world on this extraordinary one-of-a-kind adventure.
 
