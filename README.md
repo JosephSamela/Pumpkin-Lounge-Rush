@@ -1,10 +1,5 @@
 # Pumpkin-Lounge-Rush
-<<<<<<< HEAD
-![Pumpkin Lounge Rush](http://i.imgur.com/2ggJ6e2.gif)
-=======
 ![Pumpkin Lounge Rush](http://i.imgur.com/sGiI2rY.gif)
->>>>>>> origin/master
-
 You will laugh, cry and love. Join the world on this extraordinary one-of-a-kind adventure.
 
 ##What is Pumpkin Lounge Rush?
