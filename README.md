@@ -8,7 +8,7 @@ Exciting *completely* original game designed for large format LED matrix display
 This game was originally written for a large format LED matrix display, part of an iteractive art exhibit. It has since been ported to MacOS, Windows and even Android! This game was made in Processing 3.0 and was ported to mobile using the "Android Mode".
 
 ###How can I play?
-  1. Download the folder for your specific devide.
+  1. Download the folder for your system.
   2. Run executable (.exe or .app)
   3. Start mashing your spacebar!
 
@@ -21,6 +21,7 @@ https://play.google.com/store/apps/details?id=processing.PumpkinLoungeRush&hl=en
 ![youlose](screenshots/youlose.png?raw=true "youlose")
 
 ![gameplay](screenshots/gameplay.png?raw=true "gameplay")
+NOTE, while the design might make the game "feel" endless, it's not. It is completely beatable geting progressively more ~~difficult~~ psychedelic as levels progress. There is a reward at the end.
 
 ### Author
 * **Joe Samela** - *Initial work* - [ForYourBrain.net](http://www.foryourbrain.net)
