@@ -2,17 +2,17 @@
 ![Pumpkin Lounge Rush](http://i.imgur.com/sGiI2rY.gif)
 You will laugh, cry and love. Join the world on this extraordinary one-of-a-kind adventure.
 
-##What is Pumpkin Lounge Rush?
+## What is Pumpkin Lounge Rush?
 Exciting *completely* original game designed for large format LED matrix displays!
 
 This game was originally written for a large format LED matrix display part of an iteractive art exhibit. It has since been ported to MacOS, Windows and Android! This game coded in Processing 3.0 and was ported to mobile using the "Android Mode".
 
-###How can I play?
+### How can I play?
   1. Download the folder for your system.
   2. Run executable (.exe or .app)
   3. Start mashing your spacebar!
 
-###Wait what, you said it's on Android?
+### Wait what, you said it's on Android?
 Yes sir! It's avaliable on the Google Play store here:
 https://play.google.com/store/apps/details?id=processing.PumpkinLoungeRush&hl=en
 
